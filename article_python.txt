@@ -1,0 +1,48 @@
+What do companies expect from Python devs in 2019?
+April 22nd 2019
+ 
+
+Python is everywhere.
+
+According to the 2019’s StackOverflow’s Developer Survey, it is the 2nd most loved programming language in the world.
+
+Over the past 4 years, Python has constantly been the 3rd most popular language among GitHub contributors.
+
+Even here at CV Compiler, we use Python as a core language for our resume-processing engine.
+
+Our love for Python made us go even further — with the use of NLTK and spaCy, we have created own text analytics tool. (Without it, you won’t be reading this data-proven list of skills a modern Pythonista should have.)
+
+Actually, here is the result of our efforts — the comprehensive set of skills you as a Python dev need to stay marketable in 2019.
+
+What skills do I need to succeed as a Python dev in 2019?
+Jointly with our team, we took 300 job specs for Python developers, scrapped from StackOverflow, AngelList, LinkedIn, and some fast-growing tech companies worldwide. From all these descriptions, we extracted the skills which were mentioned the most frequently, and here they are. (The numbers refer to the number of mentions.)
+
+
+Among the other frequently-mentioned skills not highlighted in this chart were Unit Testing (32), Continuous Deployment (30), MongoDB (30), and OOP (30). If talking about the Machine Learning skills, the most commonly-mentioned ones were Pandas (29), NumPy (24), SciPy (15), and Scikit-Learn (11).
+
+Surely, the necessity of these skills depends on how you use Python. If you’re a Machine Learning Engineer, you don’t need to know Django perfectly, and so on.
+
+Please note: This research shows the overall tendencies in the employment market, not the preferences of Python developers themselves. This rating may differ from the list of technologies most devs prefer to use in their work. For some Python insights, turn to Python Developers Survey by Python Software Foundation, or Octoverse by GitHub.
+
+What is the experts’ opinion about current Python trends?
+Nowadays, it’s absolutely standard for developers to be familiar with Git, GitHub, and Travis for CI. Testing, preferably with pytest and (judicious) use of unittest.mock, is also vital for a well-run project. Container and virtualization technologies, from docker to lxc to AWS to Azure to Kubernetes and OpenStack, are very “normal” for both development and deployment. Being able to create build artifacts, then deploy a staging version of your infrastructure, then run tests against it, then deploy to production and if necessary rollback to a previous version, should all be push-button operations.
+Django is still as popular as ever and a useful skill to have. Flask and SQLAlchemy is just as potent a combination, but not quite as highly in demand. As for Data Science, it is a rising star of the Python world. Pandas, Numpy and SciPy are all tools that are highly in demand, along with Jupyter notebooks. Database knowledge is also essential here.
+Michael Foord, Python core developer.
+Creator of “mock” (now a unittest.mock standard library)
+
+
+This research shows pretty clearly the direction where the development world is evolving. AWS, Docker, Clouds, and Kubernetes are pretty new, but they have already become a part of the programmers’ everyday routine. It doesn’t mean that you as a Python dev need to know all the nuances of these technologies, but you will be facing them on a daily basis.
+Machine Learning requires Python in 9 cases out of 10, but it’s a completely different field. If you’re a Python dev, you don’t need ML skills. If you choose Machine Learning or AI, you will definitely need Python.
+The word ‘microservices’ is very close to Go, REST, and API on the graph. However, this tiny word silently changes the whole market. I recommend starting to invest time in understanding what it brings to the surface.
+Mikhail Kashkin,
+Systems Architect and Python Expert. Ex-Googler.
+
+For Python devs in general, I don’t think there is one thing they need to learn/know to excel. Data science, DevOps, Web Development, and Automation are totally different fields but all fall under “Python devs”. However, I get asked about Data Science tools more than I used to from my clients. Mostly it’s Pandas, followed by Jupyter notebooks.
+Trey Hunner,
+Python and Django team trainer,
+former director of the Python Software Foundation.
+
+
+I have done a few interviews over the past year or two and there are definitely a lot of employers that want AWS or cloud experience. In addition to that, I see a lot of growth in Data Science / Machine Learning. And much like this research is already showing, if you can do Web Development, that would be good as well.
+Mike Driscoll, author of Python books, blogger.
+Part of the tutorial team at Real Python.
